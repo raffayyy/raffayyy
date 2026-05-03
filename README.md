@@ -98,25 +98,6 @@ I take pride in bridging the gap between technical precision, human understandin
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-neon-nine-27.vercel.app/api?username=raffayyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raffayyy&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raffayyy&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
-> 💡 *Most of my work lives in private & org repos, private contributions are enabled.*
-
----
-
 ## 💼 Open to Collaborate On
 
 | Your Challenge | How I Can Help |
