@@ -102,7 +102,7 @@ I take pride in bridging the gap between technical precision, human understandin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raffayyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats-neon-nine-27.vercel.app/api?username=raffayyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffayyy&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
